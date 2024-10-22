@@ -1,5 +1,3 @@
-Here’s a template for the README file you can use on GitHub for your project:
-
 ---
 
 # **Customer Churn Analysis for Tour & Travel Company**
@@ -74,5 +72,3 @@ This project demonstrates how data analysis can reveal valuable insights into cu
 Feel free to contribute or provide feedback!
 
 ---
-
-This README provides an introduction to your project, instructions for running it, and a summary of your findings. You can customize the links and sections as per your specific details!
